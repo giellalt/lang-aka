@@ -1,8 +1,8 @@
 !! Nouns
 !! -----
-!! Nouns in UNDEFINED language are things.
+!! Nouns in Akan language are things.
 
 LEXICON Nouns
-noun    Cases   ;
+kuro    Cases "town"  ;
 
 ! vim: set ft=xfst-lexc:
