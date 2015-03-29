@@ -93,36 +93,36 @@ LEXICON PUNCTconnector    !^C^
  +Sg+Nom+Use/Circ: K ;	! §       !
 !+Sg+Gen: K ;	! §       !^C^
 !+Sg+Acc: K ;	! §       !^C^
- +Err/Sub+Use/Circ: PUNCTsuff ;		! §as              ! !
+ +Err/Orth+Use/Circ: PUNCTsuff ;		! §as              ! !
  +Use/Circ:%: PUNCTsuff ;	! §:s                   !
- +Err/Sub+Use/Circ:%- PUNCTsuff ;	! §-as  ! Perhaps. ! !
- +Err/Sub+Use/Circ:%' PUNCTsuff ;	! §'as  ! Perhaps. ! !
+ +Err/Orth+Use/Circ:%- PUNCTsuff ;	! §-as  ! Perhaps. ! !
+ +Err/Orth+Use/Circ:%' PUNCTsuff ;	! §'as  ! Perhaps. ! !
  
 LEXICON PUNCTsuff
 ! K ;		! § 14 (no case on the bare §). Oh, yes. Case.
  +Sg+Gen: K ;	! §    (case suffix on the rest, in case of explicit
  +Sg+Acc: K ;	!       suffix)
- +Sg+Gen+Err/Sub:a K ;	! §:a  (case suffix on the rest, in case of explicit  !
- +Sg+Acc+Err/Sub:a K ;	!       suffix)                                       !
- +Sg+Ill+Err/Sub:ij K ;  !       !
+ +Sg+Gen+Err/Orth:a K ;	! §:a  (case suffix on the rest, in case of explicit  !
+ +Sg+Acc+Err/Orth:a K ;	!       suffix)                                       !
+ +Sg+Ill+Err/Orth:ij K ;  !       !
  +Sg+Ill:i K ;   !
  +Sg+Loc:s K ;   ! §:s
- +Sg+Loc+Err/Sub:as K ;  ! §:as  !
+ +Sg+Loc+Err/Orth:as K ;  ! §:as  !
 +Sg+Com:in K ;
    +Ess:n K ;
- +Ess+Err/Sub:an K ;          !
+ +Ess+Err/Orth:an K ;          !
 +Pl+Nom:t K ;
 +Pl+Gen:id K ;
 +Pl+Acc:id K ;
 +Pl+Ill:ide K ;
 +Pl+Loc:in K ;
 +Pl+Com:igujn K ;
- +Pl+Nom+Err/Sub:at K ;     !
- +Pl+Gen+Err/Sub:ajd K ;    !
- +Pl+Acc+Err/Sub:ajd K ;    !
- +Pl+Ill+Err/Sub:ajde K ;   !
- +Pl+Loc+Err/Sub:ajn K ;    !
- +Pl+Com+Err/Sub:ajgujn K ; !
+ +Pl+Nom+Err/Orth:at K ;     !
+ +Pl+Gen+Err/Orth:ajd K ;    !
+ +Pl+Acc+Err/Orth:ajd K ;    !
+ +Pl+Ill+Err/Orth:ajde K ;   !
+ +Pl+Loc+Err/Orth:ajn K ;    !
+ +Pl+Com+Err/Orth:ajgujn K ; !
 
 
 ! Todo: Some symbols from non-ISO code pages do not work
