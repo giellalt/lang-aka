@@ -1,3 +1,0 @@
-Divvun speller for Akan
-ak desktop version 0.1, 27.05.2020, rev
-Built using HFST 3.15.2
