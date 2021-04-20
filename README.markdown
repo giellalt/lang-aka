@@ -10,8 +10,8 @@ authors named in the AUTHORS file are available to grant other licencing
 choices.
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-aka)](https://github.com/giellalt/lang-aka/issues)
-[![Build Status](https://github.com/giellalt/lang-aka/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-aka/actions)
-[![License](https://img.shields.io/github/license/giellalt/template-lang-aka)](https://raw.githubusercontent.com/giellalt/lang-aka/develop/LICENSE)
+[![Build Status](https://github.com/giellalt/lang-aka/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-aka/actions)
+[![License](https://img.shields.io/github/license/giellalt/lang-aka)](https://raw.githubusercontent.com/giellalt/lang-aka/develop/LICENSE)
 
 The Akan analyser is still just in its infancy.
 
