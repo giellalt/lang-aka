@@ -606,38 +606,7 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-aka/blob/main/../src/cg3/functions.cg3)</small>Nouns
-Nouns in Akan language are things.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/stems/nouns.lexc)</small>Prefixes
-Prefixes in the Akan language are bound to beginning of other words.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/stems/prefixes.lexc)</small>Adjectives
-Adjectives in the Akan language describe things.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/stems/adjectives.lexc)</small>Verbs
-Verbs in the Akan language are actions.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/stems/verbs.lexc)</small>Numerals
-Numerals in the Akan language are numbers.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/stems/numerals.lexc)</small>Pronouns
-Pronouns in the Akan language are references to things.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/stems/pronouns.lexc)</small>=================================== !
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-aka/blob/main/../src/cg3/functions.cg3)</small>=================================== !
 The Akan morphophonological/twolc rules file !
 =================================== !
 
@@ -662,7 +631,20 @@ The Akan morphophonological/twolc rules file !
 
 * examples:*
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/phonology.twolc)</small>Noun inflection
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/phonology.twolc)</small>Verb inflection
+The Akan language verbs inflect in persons.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/affixes/verbs.lexc)</small>Proper noun inflection
+The Akan language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/affixes/propernouns.lexc)</small>Noun inflection
 The Akan language nouns inflect in cases.
 
 
@@ -682,20 +664,38 @@ The Akan language adjectives compare.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/affixes/adjectives.lexc)</small>Verb inflection
-The Akan language verbs inflect in persons.
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/affixes/adjectives.lexc)</small>Pronouns
+Pronouns in the Akan language are references to things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/stems/pronouns.lexc)</small>Numerals
+Numerals in the Akan language are numbers.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/stems/numerals.lexc)</small>Verbs
+Verbs in the Akan language are actions.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/stems/verbs.lexc)</small>Prefixes
+Prefixes in the Akan language are bound to beginning of other words.
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/affixes/verbs.lexc)</small>Proper noun inflection
-The Akan language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
-
+<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/stems/prefixes.lexc)</small>Nouns
+Nouns in Akan language are things.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/affixes/propernouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/stems/nouns.lexc)</small>Adjectives
+Adjectives in the Akan language describe things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-aka/blob/main/../src/fst/stems/adjectives.lexc)</small>
 # Akan morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Akan LANGUAGE.
 
