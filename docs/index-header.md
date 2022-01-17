@@ -6,6 +6,8 @@
 [![Build status](https://github.com/giellalt/lang-aka/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-aka/actions)
 
 This page documents the work on the [Akan language model](https://github.com/giellalt/lang-aka). 
+It is a setup of an analyser for Akan.
+It only contains a handful of words.
 
 # Project documentation
 
