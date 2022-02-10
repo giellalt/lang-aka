@@ -1,7 +1,7 @@
 # Akan documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
-[![License](https://img.shields.io/github/license/giellalt/lang-aka)](https://raw.githubusercontent.com/giellalt/lang-aka/main/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-aka)](https://github.com/giellalt/lang-aka/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-aka)](https://github.com/giellalt/lang-aka/issues)
 [![Build status](https://github.com/giellalt/lang-aka/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-aka/actions)
 
