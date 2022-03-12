@@ -2,7 +2,7 @@ The Akan morphology and tools
 ==========================================
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-aka)](https://github.com/giellalt/lang-aka/issues)
-[![Build Status](https://github.com/giellalt/lang-aka/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-aka/actions)
+[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-aka/main/badge.svg)](https://github.com/giellalt/lang-aka/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-aka)](https://github.com/giellalt/lang-aka/blob/main/LICENSE)
 
 This repository contains finite state source files for the Akan language,
