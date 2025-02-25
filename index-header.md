@@ -7,6 +7,7 @@
 [![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-aka/main/badge.svg)](https://github.com/giellalt/lang-aka/actions)
 
 This page documents the work on the [Akan language model](https://github.com/giellalt/lang-aka). 
+
 It is a setup of an analyser for Akan.
 It only contains a handful of words.
 
