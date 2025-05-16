@@ -22,8 +22,7 @@ endif # WANT_SPELLERS
 
 # List tests that are presently (expected) failures here (in addition to above),
 # ie things that should be fixed *later*, but is not critical at the moment:
-XFAIL_TESTS=accept-all-lemmas.sh \
-			suggestion-quality.sh \
+XFAIL_TESTS=suggestion-quality.sh \
 			run-desktopspeller-gt-norm-yaml-testcases.sh
 
 
